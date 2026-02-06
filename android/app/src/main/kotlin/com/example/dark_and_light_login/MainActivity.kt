@@ -1,0 +1,5 @@
+package com.example.dark_and_light_login
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
